@@ -1,0 +1,18 @@
+{
+  "name": "copilot-marketplace",
+  "owner": {
+    "name": "Daniel Morris",
+    "email": "unfunco@github.com"
+  },
+  "metadata": {
+    "description": "Copilot plugins for Daniel Morris.",
+    "version": "0.0.0"
+  },
+  "plugins": [
+    {
+      "name": "unfunco",
+      "description": "A plugin for unfunco.",
+      "source": "unfunco/copilot-plugin-unfunco"
+    }
+  ]
+}
