@@ -12,7 +12,10 @@
     {
       "name": "unfunco",
       "description": "A plugin for unfunco.",
-      "source": "unfunco/copilot-plugin-unfunco"
+      "source": {
+        "source": "github",
+        "repo": "unfunco/copilot-plugin-unfunco"
+      }
     }
   ]
 }
