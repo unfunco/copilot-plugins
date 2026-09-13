@@ -1,7 +1,6 @@
 # GitHub Copilot plugin marketplace
 
-A curated GitHub Copilot plugin marketplace of custom plugins maintained by
-Daniel Morris.
+GitHub Copilot marketplace of custom plugins maintained by Daniel Morris.
 
 ## Getting started
 
