@@ -11,10 +11,10 @@
   "plugins": [
     {
       "name": "unfunco",
-      "description": "A plugin for unfunco.",
+      "description": "Custom agents and skills by Daniel Morris.",
       "source": {
         "source": "github",
-        "repo": "unfunco/copilot-plugin-unfunco"
+        "repo": "unfunco/ai"
       }
     }
   ]
