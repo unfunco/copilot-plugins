@@ -1,0 +1,14 @@
+name: CI
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  release:
+    name: Release
+    permissions:
+      contents: write
+      pull-requests: write
+    uses: unfunco/meta/.github/workflows/release-please.yaml@8a2e3873c609d86b9a67b353a9111bd44171240d # v0.3.0
